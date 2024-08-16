@@ -1,0 +1,1 @@
+# rs_goldcradle_version
